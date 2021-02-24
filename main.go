@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/gonutz/w32"
 	"syscall"
 	"unsafe"
+
+	"github.com/gonutz/w32/v2"
 )
 
 func main() {
